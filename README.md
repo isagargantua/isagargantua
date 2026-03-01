@@ -20,7 +20,6 @@ I specialize in building scalable automation frameworks for Web, API, and Mobile
 
 Java  
 Python
-
 Selenium  
 Playwright  
 Appium  
