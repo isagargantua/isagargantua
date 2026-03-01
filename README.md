@@ -18,17 +18,7 @@ I specialize in building scalable automation frameworks for Web, API, and Mobile
 
 ### 🛠 Tech Stack
 
-Java  
-Python
-Selenium  
-Playwright  
-Appium  
-REST Assured  
-Karate  
-TestNG  
-JMeter  
-Maven  
-CI/CD  
+Java | Python | Selenium | Playwright | Appium | REST Assured | Karate | TestNG | JMeter | Maven | CI/CD 
 
 ---
 
