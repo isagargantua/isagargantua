@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi, I'm Sagar Prasad
 
-<!--
-**isagargantua/isagargantua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SDET | Automation Engineer | Web, API & Mobile Test Automation
 
-Here are some ideas to get you started:
+I specialize in building scalable automation frameworks for Web, API, and Mobile applications with a strong focus on maintainability, reusability, and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Focus On
+
+• Web Automation Framework Design  
+• API Automation & Validation  
+• Mobile Automation (Real Device & Emulator)  
+• Parallel Execution & Scalable Architecture  
+• CI/CD Integration  
+
+---
+
+### 🛠 Tech Stack
+
+Java  
+Python
+Selenium  
+Playwright  
+Appium  
+REST Assured  
+Karate  
+TestNG  
+JMeter  
+Maven  
+CI/CD  
+
+---
+
+### ⚙️ Areas of Expertise
+
+• Page Object Model (POM)  
+• Hybrid & Data-Driven Frameworks  
+• TestNG Parallel Execution  
+• Cloud Testing (BrowserStack)  
+• RESTful API Validation (JSON / XML)  
+• Automation Strategy & Framework Optimization  
+
+---
+
+### 📌 Pinned Projects
+
+• Appium Mobile Automation Framework  
+• Selenium Web Automation Framework  
+• REST Assured API Automation Suite  
+• End-to-End Automation Framework (Web + API)  
+
+---
+
+### 📈 Engineering Philosophy
+
+Automation should be scalable, readable, and production-ready — not just scripts that pass locally.
+
+I focus on writing automation that teams can maintain and scale confidently.
