@@ -20,6 +20,7 @@ I specialize in building scalable automation frameworks for Web, API, and Mobile
 
 Java  
 Python
+
 Selenium  
 Playwright  
 Appium  
@@ -54,6 +55,6 @@ CI/CD
 
 ### 📈 Engineering Philosophy
 
-Automation should be scalable, readable, and production-ready — not just scripts that pass locally.
+Automation should be scalable, readable, and production-ready - not just scripts that pass locally.
 
 I focus on writing automation that teams can maintain and scale confidently.
