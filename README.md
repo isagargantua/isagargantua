@@ -6,7 +6,7 @@ I specialize in building scalable automation frameworks for Web, API, and Mobile
 
 ---
 
-### 🧠 What I Focus On
+### What I Focus On
 
 • Web Automation Framework Design  
 • API Automation & Validation  
@@ -16,13 +16,13 @@ I specialize in building scalable automation frameworks for Web, API, and Mobile
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 Java | Python | Selenium | Playwright | Appium | REST Assured | Karate | TestNG | JMeter | Maven | CI/CD 
 
 ---
 
-### ⚙️ Areas of Expertise
+### Areas of Expertise
 
 • Page Object Model (POM)  
 • Hybrid & Data-Driven Frameworks  
@@ -33,7 +33,7 @@ Java | Python | Selenium | Playwright | Appium | REST Assured | Karate | TestNG 
 
 ---
 
-### 📌 Pinned Projects
+### Pinned Projects
 
 • Appium Mobile Automation Framework  
 • Selenium Web Automation Framework  
