@@ -42,8 +42,7 @@ Java | Python | Selenium | Playwright | Appium | REST Assured | Karate | TestNG 
 
 ---
 
-### 📈 Engineering Philosophy
+### Philosophy
 
-Automation should be scalable, readable, and production-ready - not just scripts that pass locally.
-
-I focus on writing automation that teams can maintain and scale confidently.
+I enjoy problems more than tools.
+Languages change, frameworks change, but good thinking scales.
